@@ -1,4 +1,4 @@
-# Welcome to Remix!
+# Welcome to Remix with Mizu(Shinobi)!
 
 - [Remix Docs](https://remix.run/docs)
 
@@ -36,4 +36,4 @@ Make sure to deploy the output of `remix build`
 
 - `build/`
 - `public/build/`
-"# remix-get_started" 
+  "# remix-get_started"
